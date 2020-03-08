@@ -1,4 +1,7 @@
 #DEMO
+
 ##Bevezetes
+
 ##Targyalas
+
 ##Befejezes
